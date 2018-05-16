@@ -10,6 +10,6 @@ https://www.preethibharadwaj.com/classes/
 github account:
 mai3rao
 
-
+git clone https://github.com/mai3rao/SampleSite.git
 git remote add origin https://github.com/mai3rao/SampleSite.git
 git push -u origin master
