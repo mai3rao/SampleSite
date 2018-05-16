@@ -1,0 +1,15 @@
+http://www.matangiprasan.com/media.html
+http://www.parshwanathupadhye.com/about.php
+https://rukminivijayakumar.com/
+https://www.shrutisuresh.info/
+https://www.preethibharadwaj.com/classes/
+
+
+
+------------------------------------------------------------------------
+github account:
+mai3rao
+
+
+git remote add origin https://github.com/mai3rao/SampleSite.git
+git push -u origin master
